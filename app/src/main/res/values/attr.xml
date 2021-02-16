@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="moodImage" format="reference"/>
+    <attr name="moodTitle" format="reference"/>
+    <attr name="moodChangeButton" format="reference"/>
+</resources>
